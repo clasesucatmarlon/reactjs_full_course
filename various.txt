@@ -12,4 +12,6 @@ Babel ---> retrocompatibilidad
 
 start project ---> create-react-app class001
 
-
+index.html  --->  dónde se va a montar la aplicación (id)
+index.js  --->  entry point  --->  dónde se monta (App)
+App.js  --->  entry point (código a mostrar)
