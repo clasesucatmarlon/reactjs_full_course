@@ -1,0 +1,15 @@
+NVM ---> node version manager (npm i nvm -g)
+    ---> nvm use v14
+    ---> nvm use v10
+
+CSR ---> Client side render ---> 
+SSR ---> Server side render (next) ---> SEO, protección de datos
+
+npm i create-react-app -g
+
+Webpack  ---> Module bundler
+Babel ---> retrocompatibilidad
+
+start project ---> create-react-app class001
+
+
