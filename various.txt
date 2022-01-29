@@ -15,3 +15,13 @@ start project ---> create-react-app class001
 index.html  --->  dónde se va a montar la aplicación (id)
 index.js  --->  entry point  --->  dónde se monta (App)
 App.js  --->  entry point (código a mostrar)
+
+profiler ---> ver rendimiento de la aplicación (extensión chrome)
+
+EXPORTACIONES:
+
+export const Header ---> para importar debe ser igual y desestructurada 
+                    ---> import {Header} from "./components/Header/Header";
+
+export default Header ---> para import puedo llamarla como sea
+                      ---> import HeaderImportado from "./components/Header/Header";
