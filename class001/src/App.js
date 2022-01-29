@@ -1,10 +1,15 @@
-const sumar= (a,b) => a + b;
+import Header from "./components/Header/Header";
+import Main from "./components/main/Main";
 
 function App() {
-  const suma = sumar(10, 20);
+  // const suma = sumar(10, 20);
   return (
-    <h1>Hola.... la suma es: {suma}</h1>
+    <div>
+      <Header />
+      <Main />
+    </div>
   );
 }
+
 
 export default App;
