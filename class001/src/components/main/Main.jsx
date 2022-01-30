@@ -5,8 +5,8 @@ const Main = () => {
   const resta = Restar(15, 40);
   return (
     <>
-      <h1>Hola.... la suma es: { suma } </h1>
-      <h1>Hola.... la resta es: { resta } </h1>
+      <h3>Hola.... la suma es: { suma } </h3>
+      <h3>Hola.... la resta es: { resta } </h3>
     </>
   );
 }
