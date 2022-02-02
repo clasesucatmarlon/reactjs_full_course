@@ -25,3 +25,10 @@ export const Header ---> para importar debe ser igual y desestructurada
 
 export default Header ---> para import puedo llamarla como sea
                       ---> import HeaderImportado from "./components/Header/Header";
+
+Bootstrap:  npm i bootstrap react-bootstrap
+
+ShortId: npm i short-id
+
+Bootstrap 5: https://react-bootstrap.github.io/
+
